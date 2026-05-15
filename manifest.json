@@ -1,0 +1,25 @@
+{
+  "name": "媽媽的照護助理",
+  "short_name": "媽媽健康",
+  "description": "媽媽健康紀錄追蹤與照護管理系統",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0D1117",
+  "theme_color": "#0D1F3C",
+  "orientation": "portrait-primary",
+  "lang": "zh-TW",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
